@@ -39,7 +39,7 @@ recipe can be as simple as::
     [jython]
     recipe = sk.recipe.jython
 
-This recipe exports two values that are handy in other recipes::
+This recipe exports two values that are handy in other recipes:
 
 ``location``
     This exported option identifies where the recipe installed Jython.  You
