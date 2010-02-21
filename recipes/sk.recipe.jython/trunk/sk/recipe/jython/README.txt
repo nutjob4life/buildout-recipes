@@ -74,11 +74,8 @@ given to it.  These files are in the ``testdata`` directory::
 
     >>> import os.path
     >>> testdata = join(os.path.dirname(__file__), 'testdata')
-    >>> ls(testdata)
-    - java
-    - jython-fake.jar
 
-The file ``java`` above is actually an executable Python script, while
+The file ``java`` is actually an executable Python script, while
 ``jython-fake.jar`` is an empty file.
 
 Let's create a buildout to build and install Jython::
