@@ -10,7 +10,7 @@ import os.path
 
 _name = 'sk.recipe.jython'
 _desc = 'A recipe for Buildout (zc.buildout) to install Jython'
-_version = '0.0.0'
+_version = '0.0.1'
 _keywords = 'buildout jython installation automation'
 _url, _downloadURL = 'http://code.google.com/p/buildout-recipes/', 'http://code.google.com/p/buildout-recipes/downloads/list'
 _author, _authorEmail = 'Sean Kelly', 'kelly@seankelly.biz'
