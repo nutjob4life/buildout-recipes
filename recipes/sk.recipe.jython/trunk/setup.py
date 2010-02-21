@@ -9,6 +9,7 @@ from setuptools import setup, find_packages
 import os.path
 
 _name = 'sk.recipe.jython'
+_desc = 'A recipe for Buildout (zc.buildout) to install Jython'
 _version = '0.0.0'
 _keywords = 'buildout jython installation automation'
 _url, _downloadURL = 'http://code.google.com/', 'http://code.google.com/'
@@ -46,10 +47,9 @@ def _read(*rnames):
     return open(os.path.join(os.path.dirname(__file__), *rnames)).read()
 
 _header = '*' * len(_name) + '\n' + _name + '\n' + '*' * len(_name)
-_desc = _read('README.txt')
 _longDesc = '\n\n'.join([
     _header,
-    _desc,
+    _read('README.txt'),
     _read('docs', 'INSTALL.txt'),
     _read('sk', 'recipe', 'jython', 'README.txt'),
     _read('docs', 'HISTORY.txt'),
