@@ -23,8 +23,11 @@ Developer's Information
 =======================
 
 Project home page
+    http://code.google.com/p/buildout-recipes/
 Source repository
+    http://buildout-recipes.googlecode.com/svn/recipes/sk.recipe.jython
 Issue tracker
+    http://code.google.com/p/buildout-recipes/issues/list
 
 
 .. References:
