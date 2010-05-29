@@ -10,7 +10,7 @@ import os.path
 
 _name = 'sk.recipe.xdv'
 _desc = 'A recipe for Buildout (zc.buildout) to compile XDV rules into XSLT'
-_version = '0.0.0'
+_version = '0.0.1'
 _keywords = 'buildout xdv deliverance compiler xsl xslt'
 _url, _downloadURL = 'http://code.google.com/p/buildout-recipes/', 'http://code.google.com/p/buildout-recipes/downloads/list'
 _author, _authorEmail = 'Sean Kelly', 'kelly@seankelly.biz'
