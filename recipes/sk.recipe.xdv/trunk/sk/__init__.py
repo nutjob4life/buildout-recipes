@@ -1,7 +1,7 @@
 # encoding: utf-8
 # See http://peak.telecommunity.com/DevCenter/setuptools#namespace-packages
 #
-# sk namespace declaration for sk.recipe.jython
+# sk namespace declaration for sk.recipe.xdv
 # 
 # Copyright 2010 Sean Kelly and contributors.
 # This is licensed software. Please see the LICENSE.txt file for details.

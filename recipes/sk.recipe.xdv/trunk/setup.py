@@ -1,6 +1,6 @@
 # encoding: utf-8
 #
-# Distribute metadata for sk.recipe.jython
+# Distribute metadata for sk.recipe.xdv
 # 
 # Copyright 2010 Sean Kelly and contributors.
 # This is licensed software. Please see the LICENSE.txt file for details.
@@ -11,7 +11,7 @@ import os.path
 _name = 'sk.recipe.xdv'
 _desc = 'A recipe for Buildout (zc.buildout) to compile XDV rules into XSLT'
 _version = '0.0.0'
-_keywords = 'buildout jython installation automation'
+_keywords = 'buildout xdv deliverance compiler xsl xslt'
 _url, _downloadURL = 'http://code.google.com/p/buildout-recipes/', 'http://code.google.com/p/buildout-recipes/downloads/list'
 _author, _authorEmail = 'Sean Kelly', 'kelly@seankelly.biz'
 _license = 'BSD'
