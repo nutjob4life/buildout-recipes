@@ -9,7 +9,7 @@ Deliverance_ is a "game-changing" concept in the assembly and theming of
 disparate web applications into singular, cohesive units.  XDV_ is an
 implementation of a subset of Deliverance that generates pure Extensible
 Stylesheet Language (XSL_) Transformation (XSLT_) rules.  Buildout_ is a
-civilized way of constructing of applications in repeatable a manner, driven
+civilized way of constructing of applications in a repeatable manner, driven
 by "recipes" that tell how to attain specific goals.
 
 This recipe, ``sk.recipe.xdv``, enables a Buildout to automatically construct
